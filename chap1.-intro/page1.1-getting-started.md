@@ -2,7 +2,7 @@
 
 
 
-{% code title="ch1.1.hello.c" overflow="wrap" lineNumbers="true" %}
+{% code title="ch1.1.hello.c" lineNumbers="true" %}
 ```c
 // Some code
 #include <stdio.h>  //打招呼 
