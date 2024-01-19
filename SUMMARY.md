@@ -21,7 +21,7 @@
 * [Chap2. 类型运算符与表达式](chap2.-lei-xing-yun-suan-fu-yu-biao-da-shi/README.md)
   * [2.1 变量名](chap2.-lei-xing-yun-suan-fu-yu-biao-da-shi/2.1-bian-liang-ming.md)
   * [2.2 数据类型及长度](chap2.-lei-xing-yun-suan-fu-yu-biao-da-shi/2.2-shu-ju-lei-xing-ji-chang-du.md)
-  * [2.3 常量](chap2.-lei-xing-yun-suan-fu-yu-biao-da-shi/2.3-chang-liang.md)
+  * [2.3 常量与转义字符](chap2.-lei-xing-yun-suan-fu-yu-biao-da-shi/2.3-chang-liang-yu-zhuan-yi-zi-fu.md)
   * [2.4 声明](chap2.-lei-xing-yun-suan-fu-yu-biao-da-shi/2.4-sheng-ming.md)
   * [2.5 算术运算符](chap2.-lei-xing-yun-suan-fu-yu-biao-da-shi/2.5-suan-shu-yun-suan-fu.md)
   * [2.6 关系运算符与逻辑运算符](chap2.-lei-xing-yun-suan-fu-yu-biao-da-shi/2.6-guan-xi-yun-suan-fu-yu-luo-ji-yun-suan-fu.md)
