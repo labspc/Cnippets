@@ -6,6 +6,7 @@
   * [0.3 c 语言编译过程](readme/0.3-c-yu-yan-bian-yi-guo-cheng.md)
   * [0.4 为什么要学习 C 语言？](readme/0.4-wei-shi-mo-yao-xue-xi-c-yu-yan.md)
   * [0.5 数据类型与数据结构](readme/0.5-shu-ju-lei-xing-yu-shu-ju-jie-gou.md)
+  * [0.6 位与字节](readme/0.6-wei-yu-zi-jie.md)
 * [Chap1. 导言](chap1.-dao-yan/README.md)
   * [1.1 入门](chap1.-dao-yan/1.1-ru-men.md)
   * [1.2 变量与表达式](chap1.-dao-yan/1.2-bian-liang-yu-biao-da-shi.md)
