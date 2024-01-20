@@ -19,7 +19,7 @@
   * [1.9 字符串数组](chap1.-dao-yan/1.9-zi-fu-chuan-shu-zu.md)
   * [1.10 外部变量与作用域](chap1.-dao-yan/1.10-wai-bu-bian-liang-yu-zuo-yong-yu.md)
 * [Chap2. 类型运算符与表达式](chap2.-lei-xing-yun-suan-fu-yu-biao-da-shi/README.md)
-  * [2.1 变量名](chap2.-lei-xing-yun-suan-fu-yu-biao-da-shi/2.1-bian-liang-ming.md)
+  * [2.1 变量名与关键字](chap2.-lei-xing-yun-suan-fu-yu-biao-da-shi/2.1-bian-liang-ming-yu-guan-jian-zi.md)
   * [2.2 数据类型及长度](chap2.-lei-xing-yun-suan-fu-yu-biao-da-shi/2.2-shu-ju-lei-xing-ji-chang-du.md)
   * [2.3 常量与转义字符](chap2.-lei-xing-yun-suan-fu-yu-biao-da-shi/2.3-chang-liang-yu-zhuan-yi-zi-fu.md)
   * [2.4 声明](chap2.-lei-xing-yun-suan-fu-yu-biao-da-shi/2.4-sheng-ming.md)
