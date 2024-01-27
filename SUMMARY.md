@@ -12,6 +12,7 @@
   * [0.9 进程与线程](readme/0.9-jin-cheng-yu-xian-cheng.md)
   * [0.10 缓存与寄存器](readme/0.10-huan-cun-yu-ji-cun-qi.md)
   * [0.11 数据在内存的存储](readme/0.11-shu-ju-zai-nei-cun-de-cun-chu.md)
+  * [0.12 像学英语一样学编程语言](readme/0.12-xiang-xue-ying-yu-yi-yang-xue-bian-cheng-yu-yan.md)
 * [Chap1. 导言](chap1.-dao-yan/README.md)
   * [1.1 入门](chap1.-dao-yan/1.1-ru-men.md)
   * [1.2 变量与表达式](chap1.-dao-yan/1.2-bian-liang-yu-biao-da-shi.md)
