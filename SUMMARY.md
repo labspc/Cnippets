@@ -66,7 +66,7 @@
   * [5.4 地址算术运算](chap5.-zhi-zhen-yu-shu-zu/5.4-di-zhi-suan-shu-yun-suan.md)
 * [Chap6. 结构](chap6.-jie-gou/README.md)
   * [6.1 结构的基本知识](chap6.-jie-gou/6.1-jie-gou-de-ji-ben-zhi-shi.md)
-  * [6.2 结构与函数](chap6.-jie-gou/6.2-jie-gou-yu-han-shu.md)
+  * [6.2 指向结构的指针与函数](chap6.-jie-gou/6.2-zhi-xiang-jie-gou-de-zhi-zhen-yu-han-shu.md)
   * [6.3 结构数组](chap6.-jie-gou/6.3-jie-gou-shu-zu.md)
   * [6.4 指向结构的指针](chap6.-jie-gou/6.4-zhi-xiang-jie-gou-de-zhi-zhen.md)
   * [6.5 自引用查找](chap6.-jie-gou/6.5-zi-yin-yong-cha-zhao.md)
