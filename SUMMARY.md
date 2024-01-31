@@ -68,6 +68,7 @@
   * [6.1 结构 Structures](chap6.-jie-gou-yu-lian-he/6.1-jie-gou-structures.md)
   * [6.2 函数与指向结构的指针](chap6.-jie-gou-yu-lian-he/6.2-han-shu-yu-zhi-xiang-jie-gou-de-zhi-zhen.md)
   * [6.3 结构数组](chap6.-jie-gou-yu-lian-he/6.3-jie-gou-shu-zu.md)
+  * [Page](chap6.-jie-gou-yu-lian-he/page.md)
   * [6.4 联合 Unions](chap6.-jie-gou-yu-lian-he/6.4-lian-he-unions.md)
 * [Chap7. 输入与输出](chap7.-shu-ru-yu-shu-chu/README.md)
   * [7.1 标准输入/输出](chap7.-shu-ru-yu-shu-chu/7.1-biao-zhun-shu-ru-shu-chu.md)
