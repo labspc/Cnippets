@@ -12,4 +12,6 @@
 
 个人博客见：[http://labspc.com/](http://labspc.com/)
 
+配套源码见：[https://github.com/labspc/Cnippets/tree/main/.src](https://github.com/labspc/Cnippets/tree/main/.src)
+
 Changelogs：2024-03-23
