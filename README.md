@@ -10,3 +10,6 @@
 
 仓库地址见：[https://github.com/labspc/Cnippets](https://github.com/labspc/Cnippets)
 
+个人博客见：[http://labspc.com/](http://labspc.com/)
+
+Changelogs：2024-03-23
